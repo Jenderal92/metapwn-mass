@@ -2,7 +2,7 @@
 
 **CVE-2026-72898 — Metabase Mass Exploitation & Post-Exploitation Framework**
 
-A threaded Python 2/3 compatible exploit + post-exploitation toolkit targeting the SQL injection in Metabase's `/api/session/reset_password` endpoint that enables unauthenticated session forgery, authenticated API access, and — on PostgreSQL-backed instances — full RCE, file read, and file write capabilities.
+A threaded Python 2 compatible exploit + post-exploitation toolkit targeting the SQL injection in Metabase's `/api/session/reset_password` endpoint that enables unauthenticated session forgery, authenticated API access, and — on PostgreSQL-backed instances — full RCE, file read, and file write capabilities.
 
 > ⚠️ **FOR AUTHORIZED SECURITY TESTING AND RESEARCH ONLY.** See [DISCLAIMER](#disclaimer).
 
