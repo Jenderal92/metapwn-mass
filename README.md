@@ -6,6 +6,8 @@ A threaded Python 2/3 compatible exploit + post-exploitation toolkit targeting t
 
 > ⚠️ **FOR AUTHORIZED SECURITY TESTING AND RESEARCH ONLY.** See [DISCLAIMER](#disclaimer).
 
+More Disclaimer You Can see the disclaimer on the cover of Jenderal92. You can check it [HERE !!!](https://github.com/Jenderal92/)
+
 ---
 
 ## Features
